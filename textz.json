@@ -1,0 +1,31 @@
+private fun loadTestData() {
+    // Test data untuk debugging
+    val testJson = """
+    [
+        {
+            "title": "Popular Movies",
+            "items": [
+                {
+                    "title": "Test Movie",
+                    "description": "This is a test movie",
+                    "poster": "",
+                    "backdrop": "",
+                    "rating": "8.5",
+                    "year": 2023,
+                    "genres": ["Action", "Adventure"],
+                    "type": "movie"
+                }
+            ]
+        }
+    ]
+    """
+    
+    try {
+        val listType = object : TypeToken<List<MovieCategory>>() {}.type
+        categories = Gson().fromJson(testJson, listType)
+        setupRecyclerView()
+        updateHeroSection(categories[0].items[0])
+    } catch (e: Exception) {
+        Log.e(TAG, "Error with test data", e)
+    }
+}
