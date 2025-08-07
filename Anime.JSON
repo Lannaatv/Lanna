@@ -1,0 +1,143 @@
+{
+  "categories": [
+    {
+      "id": "trending",
+      "title": "Trending Saat Ini",
+      "items": [
+        {
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gXYfOS6OYR8wJV4xXcQ3Nhg_HmOaY7M-t6DcuYwv4-mahCZPFtPDYL4&s=10",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+{
+          "id": "movie_001",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+      ]
+    },
+    {
+      "id": "popular",
+      "title": "Film Populer",
+      "items": [
+        {
+          "id": "series_001",
+          "title": "Attack on Titan Season 3 Part 2",
+          "description": "A group of kids in Hawkins...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster2.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg",
+          "rating": 8.7,
+          "year": 2016,
+          "genres": ["Drama", "Fantasy", "Horror"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "duration": "47 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-1.720p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "duration": "55 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-2.720p.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
