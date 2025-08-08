@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+</head>
+
+<style>
+  
+  .cards{
+    background: grey;
+    border-radius: 12px;
+    width: 100%;
+  }
+  
+.card-info {
+    margin-top: 10px; /* Jarak antara card dan informasi */
+    padding-bottom: 10px;
+    display: flex; /* Mengaktifkan flexbox */
+    justify-content: center; /* Menyelaraskan item di tengah secara horizontal */
+    align-items: center; /* Menyelaraskan item di tengah secara vertikal */
+    gap: 150px; /* Jarak antara elemen */
+  
+  }
+
+  .card-info h3 {
+    font-size: 18px;
+    color: white;
+    margin: 0; /* Hilangkan margin default */
+  }
+
+  .detail-button {
+    padding: 8px 15px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+  .detail-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
+    .card-link {
+    text-decoration: none; /* Menghilangkan underline pada link */
+  }
+  
+  
+  
+  .cardx {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+  
+  .cardx video, .cardx img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s ease;
+  }
+  
+  .cardx video {
+    opacity: 0; /* Awalnya video tersembunyi */
+  }
+</style>
+
+
+
+
+<body>
+  <div class="cards">
+<div class="cardx" onclick="stopVideo(this)" onmouseenter="playVideo(this)" onmouseleave="pauseVideo(this)">
+  <video loop>
+    <source src="https://r3---sn-2uuxa3vh-230s.googlevideo.com/videoplayback?expire=1741545945&ei=eY3NZ-2wNJiI6dsP8M2G2Qg&ip=176.1.194.115&id=o-ADg__ZPtrzOsvM7HZIfoggUp5Bl0yZz1Mpnkx5ey4EGH&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AUWDL3zpLHSmYfYDgqHhZV9ijF2kGvNqa_TxQGnKnGq4l1eVfpL5PrRttbfudWxuaeJtghNv12fIOG8c&spc=RjZbSc4pU0V_GkJmWTXcgdqv_vtL9z0sXVL_D-ymguAwk-iqve80&vprv=1&svpuc=1&mime=video%2Fmp4&ns=TRLyIlLtRLAvRnLHv267aAUQ&rqh=1&gir=yes&clen=15864998&ratebypass=yes&dur=176.285&lmt=1722570589154406&fexp=51326932%2C51355912%2C51411872&c=WEB&sefc=1&txp=5538434&n=Eak_pIiahlTBlg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgWb4EQWAs9-1udy1zQug8tc4sfBLGTzaYdzh8L86ipO8CIQD6t2qMdpx_MM_cF2yphLXnNyigCgs9Lsvi5Je7mx3Gcg%3D%3D&pot=MnQfk4Yuyp17rh-vNcGls6VaoWc1pqP0sO-Vx9caQTeXxnhgIWObCL7SA-KMm_3R8fLrteP9Wg97Cle4lq__Nm8BAsaspSoa60KCZNDOwWtrCf_IyEVnxtXwHcbG06QDYaBwHKLQF5B4J8GwW5KEGvfhfySJ6w==&title=Apex%20Legends:%20Shockwave%20Gameplay%20Trailer&cms_redirect=yes&met=1741524530,&mh=Dq&mip=125.165.102.144&mm=31&mn=sn-2uuxa3vh-230s&ms=au&mt=1741524068&mv=m&mvi=3&pcm2cms=yes&pl=21&lsparams=met,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl,rms&lsig=AFVRHeAwRQIhAOEK8PX6lW36T843SI_Pm3Pu_GTbUotUTjkhic4FXb1yAiAN45MSwLvU5_cM472GmILO8kljgaynFTgfwOtjRZ9cpw%3D%3D" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMbxODN79NGpjbOA2iF5MHnKupKmokK8u78n6Sw078SuxAJk8_xPviis&s=10" alt="Gambar Thumbnail">
+</div>
+
+<!-- Elemen baru untuk judul dan tombol -->
+<div class="card-info">
+  <h3>Apex Legend</h3>
+  <a href="https://sokuja.id/" class="detail-button">Lihat Detail</a>
+</div>
+</div>
+ 
+
+
+
+<script>
+  function playVideo(card) {
+    const video = card.querySelector("video");
+    const img = card.querySelector("img");
+    img.style.opacity = "0"; // Sembunyikan gambar
+    video.style.opacity = "1"; // Tampilkan video
+    video.play(); // Putar video
+  }
+
+  function pauseVideo(card) {
+    const video = card.querySelector("video");
+    const img = card.querySelector("img");
+    video.style.opacity = "0"; // Sembunyikan video
+    img.style.opacity = "1"; // Tampilkan gambar
+    video.pause(); // Hentikan video
+    video.currentTime = 0; // Reset video
+  }
+
+   
+</script>
+</body>
+</html>
