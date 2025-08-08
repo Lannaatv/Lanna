@@ -1,0 +1,185 @@
+{
+  "categories": [
+    {
+      "id": "trending",
+      "title": "Trending Saat Ini",
+      "items": [
+         {
+          "id": "series_001",
+          "title": "Kaijuu No. 8 Season 2",
+          "description": "A man working a job far removed from his childhood dreams gets wrapped up in an unexpected situation - becoming a monster, he aims once again to fulfill his lifelong dream.",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS358KOHNEBZBBHsY7LPh7gLCop1IxuYaD-Su48_cSMwWOJ2VIWmNFAUHIS&s=10",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg",
+          "rating": 8.3,
+          "year": 2025,
+          "genres": ["Action", "Fantasy", "Sci-Fi"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "       ",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-1.1080p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "        ",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-2.1080p.mp4"
+            },
+{
+              "episode": 3,
+              "title": "       ",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-3.1080p.mp4"
+            }
+
+
+
+         {
+          "id": "series_002",
+          "title": "DanDaDan Season 2",
+          "description": "Momo dan Okarun memulai petualangan terbaru mereka, bepergian ke rumah kota sumber air panas yang disewa oleh Jiji, teman masa kecil Momo dan mantan kekasihnya, dengan tujuan untuk memecahkan misteri seputar keluarganya.",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kL95bpjPrmHABv61rfoElypAZo6-DNhU51MHLQOSYhU4JO5DZw30KuSl&s=10",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg",
+          "rating": 8.5,
+          "year": 2025,
+          "genres": ["Action", "Comedy", "Supernatural"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "      ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-1.S2.1080p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "     ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-2.S2.1080p.mp4"
+            },
+           {
+              "episode": 3,
+              "title": "        ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-3.S2.1080p.mp4"
+            },
+           {
+              "episode": 4,
+              "title": "        ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-4.S2.1080p.mp4"
+            },
+           {
+              "episode": 5,
+              "title": "        ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-5.S2.1080p.mp4"
+            },
+           {
+              "episode": 6,
+              "title": "        ",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-6.S2.1080p.mp4"
+            }
+]
+},
+                 
+
+        {
+          "id": "movie_002",
+          "title": "Demon Slayer Infinity Castle",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gIdV2SGTYM2n_7AGT_Bao9Len1l2xF9n8vD6WcJlVEe6yxin0MYFlf8&s=10",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://storages.sokuja.id/2025-summer/KNY-INFINITY/SOKUJA.NET-KNY-INC-CAMVER-480p.mp4?"
+        },
+
+     {
+          "id": "movie_003",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/8/4/3/9/958439-spy-x-family-code-white-0-1000-0-1500-crop.jpg?v=b7e7cdd584",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        },
+
+
+     {
+          "id": "movie_004",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/8/4/3/9/958439-spy-x-family-code-white-0-1000-0-1500-crop.jpg?v=b7e7cdd584",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        },
+
+
+     {
+          "id": "movie_005",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/8/4/3/9/958439-spy-x-family-code-white-0-1000-0-1500-crop.jpg?v=b7e7cdd584",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop1.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+
+      ]
+    },
+
+    {
+      "id": "popular",
+      "title": "Film Populer",
+      "items": [
+        {
+          "id": "series_010",
+          "title": "Attack on Titan Season 3 Part 2",
+          "description": "A group of kids in Hawkins...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster2.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg",
+          "rating": 8.7,
+          "year": 2016,
+          "genres": ["Drama", "Fantasy", "Horror"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "duration": "47 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-1.720p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "duration": "55 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-2.720p.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
