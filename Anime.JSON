@@ -1,0 +1,519 @@
+{
+  "categories": [
+    {
+      "id": "trending",
+      "title": "Trending Saat Ini",
+      "items": [
+         {
+          "id": "series_001",
+          "title": "Kaijuu No. 8 Season 2",
+          "description": "Seorang pria yang melakukan pekerjaan yang jauh dari impian masa kecilnya terjebak dalam situasi yang tidak terduga - menjadi monster, ia bertekad sekali lagi untuk memenuhi impian seumur hidupnya.",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS358KOHNEBZBBHsY7LPh7gLCop1IxuYaD-Su48_cSMwWOJ2VIWmNFAUHIS&s=10",
+          "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_f-juzz9IBMrDkVIIZ6dGikalTMwxhND4BkiQU0izrDX10Pg0ZzxOX1A&s=10",
+          "rating": 8.3,
+          "year": 2025,
+          "duration": "Source: Sokuja",
+          "genres": ["Action", "Fantasy", "Sci-Fi"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-1.1080p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-2.1080p.mp4"
+            },
+{
+              "episode": 3,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://dl.sokuja.id/2025-summer/kaiju-s2/SOKUJA.NET-KAIJU.S2-3.1080p.mp4"
+            }
+
+]
+},
+
+         {
+          "id": "series_002",
+          "title": "DanDaDan Season 2",
+          "description": "Momo dan Okarun memulai petualangan terbaru mereka, bepergian ke rumah kota sumber air panas yang disewa oleh Jiji, teman masa kecil Momo dan mantan kekasihnya, dengan tujuan untuk memecahkan misteri seputar keluarganya.",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kL95bpjPrmHABv61rfoElypAZo6-DNhU51MHLQOSYhU4JO5DZw30KuSl&s=10",
+          "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGHg4Wdcr835XsG6pXifyOQLUJ3WBphtVzDlfwasiI5DgKwjijiq__gDY&s=10",
+          "rating": 8.5,
+          "year": 2025,
+          "duration": "Source: Sokuja",
+          "genres": ["Action", "Comedy", "Supernatural"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-1.S2.1080p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-2.S2.1080p.mp4"
+            },
+           {
+              "episode": 3,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-3.S2.1080p.mp4"
+            },
+           {
+              "episode": 4,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-4.S2.1080p.mp4"
+            },
+           {
+              "episode": 5,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-5.S2.1080p.mp4"
+            },
+           {
+              "episode": 6,
+              "title": "24 min",
+              "duration": "24 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/dadada-s2/SOKUJA.NET-DDD-6.S2.1080p.mp4"
+            }
+]
+},
+                 
+
+        {
+          "id": "movie_002",
+          "title": "Demon Slayer Infinity Castle",
+          "description": "Korps Pembasmi Iblis ditarik ke dalam Kastil Infinity, tempat Tanjiro, Nezuko, dan Hashira menghadapi iblis Tingkat Atas yang mengerikan dalam pertarungan putus asa saat pertempuran terakhir melawan Muzan Kibutsuji dimulai.",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gIdV2SGTYM2n_7AGT_Bao9Len1l2xF9n8vD6WcJlVEe6yxin0MYFlf8&s=10",
+          "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIj62I06zvBFzFoo6_sHzAl4xi6-f8QivNGvD8Uhj3LrGwHUgEqlsIX3I&s=10",
+          "rating": 9.0,
+          "year": 2025,
+          "duration": "2Hr  30min",
+          "genres": ["Action", "Supernatural"],
+          "type": "movie",
+          "streamUrl": "https://storages.sokuja.id/2025-summer/KNY-INFINITY/SOKUJA.NET-KNY-INC-CAMVER-480p.mp4?"
+        },
+
+   {
+          "id": "series_003",
+          "title": "Sakamoto Days Part 2",
+          "description": "Taro Sakamoto, mantan pembunuh bayaran paling ditakuti di dunia, jatuh cinta pada Aoi, seorang pelayan toko. Setelah meninggalkan masa lalunya yang penuh kekerasan, ia pensiun untuk menjalani kehidupan yang damai. Namun, musuh-musuh lama mengancam akan menariknya kembali ke kehidupan yang ia pikir telah ia tinggalkan untuk selamanya.",
+          "poster": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/07/13/2428353359.jpg",
+          "backdrop": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/07/13/2428353359.jpg",
+          "rating": 7.9,
+          "year": 2025,
+          "duration": "Source: Sokuja",
+          "genres": ["Action", "Comedy", "Organized Crime"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "25 min",
+              "duration": "25 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/sakamoto-p2/SOKUJA.NET-SKMD-1.1080p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "25 min",
+              "duration": "25 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/sakamoto-p2/SOKUJA.NET-SKMD-2.1080p.mp4"
+            },
+           {
+              "episode": 3,
+              "title": "25 min",
+              "duration": "25 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/sakamoto-p2/SOKUJA.NET-SKMD-3.1080p.mp4"
+            },
+           {
+              "episode": 4,
+              "title": "25 min",
+              "duration": "25 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/sakamoto-p2/SOKUJA.NET-SKMD-4.1080p.mp4"
+            },
+           {
+              "episode": 5,
+              "title": "25 min",
+              "duration": "25 min",
+              "streamUrl": "https://storages.sokuja.id/2025-summer/sakamoto-p2/SOKUJA.NET-SKMD-5.1080p.mp4"
+            }
+]
+},
+
+     {
+          "id": "movie_003",
+          "title": "Spy X Family Code White",
+          "description": "Peter Parker's secret identity is revealed...",
+          "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/8/4/3/9/958439-spy-x-family-code-white-0-1000-0-1500-crop.jpg?v=b7e7cdd584",
+          "backdrop": "https://contents.oricon.co.jp/upimg/news/2284000/2283697/20230620_121854_o_78236655.jpg",
+          "rating": 8.5,
+          "year": 2023,
+          "duration": "1Hr  50min",
+          "genres": ["Action", "Adventure", "Superhero"],
+          "type": "movie",
+          "streamUrl": "https://download.sokuja.id/2024-summer/spy.mov/SOKUJA.ID-SPXF.CD-1080p.mp4?"
+        }
+
+
+
+
+      ]
+    },
+
+
+
+    {
+      "id": "popular",
+      "title": "Populer",
+      "items": [
+        {
+          "id": "series_010",
+          "title": "Jujutsu Kaisen Season 2",
+          "description": "melanjutkan kisah Yuji Itadori dan teman-temannya di Sekolah Menengah Jujutsu saat mereka menghadapi berbagai tantangan, termasuk pertempuran melawan kutukan yang semakin kuat dan penyihir gelap yang mencoba memanfaatkan situasi.",
+          "poster": "https://i.pinimg.com/474x/6d/de/63/6dde63d5aa71bebad6a53e56ff9d2689.jpg",
+          "backdrop": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/9/9c/Toji_gets_behind_Gojo_again_%28Anime%29.png/revision/latest/scale-to-width-down/1200?cb=20230720195559",
+          "rating": 8.7,
+          "year": 2023,
+          "genres": ["Action", "Supernatural"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-Jjks-S2-01-720p-Op.mp4"
+            },
+           {
+              "episode": 2,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.2-720p.mp4"
+            },
+           {
+              "episode": 3,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.3-720p.mp4"
+            },
+           {
+              "episode": 4,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.4-720p.mp4"
+            },
+           {
+              "episode": 5,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.5-480p.mp4"
+            },
+           {
+              "episode": 6,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.6-720p.mp4"
+            },
+           {
+              "episode": 7,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.7-720p.mp4"
+            },
+           {
+              "episode": 8,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-8-720p.mp4"
+            },
+           {
+              "episode": 9,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-9-720p.mp4"
+            },
+           {
+              "episode": 10,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-10-720p.mp4"
+            },
+           {
+              "episode": 11,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-Jjk-S2-11-720p.mp4"
+            },
+           {
+              "episode": 12,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.12-480p.mp4"
+            },
+           {
+              "episode": 13,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.13-720p.mp4"
+            },
+           {
+              "episode": 14,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.14-720p.mp4"
+            },
+
+           {
+              "episode": 15,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.15-720p.mp4"
+            },
+           {
+              "episode": 16,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.16-720p.mp4"
+            },
+           {
+              "episode": 17,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.17-720p.mp4"
+            },
+           {
+              "episode": 18,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.18-720p.mp4"
+            },
+           {
+              "episode": 19,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.19-720p.mp4"
+            },
+           {
+              "episode": 20,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.20-720p.mp4"
+            },
+           {
+              "episode": 21,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.21-720p.mp4"
+            },
+           {
+              "episode": 22,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.22-720p.mp4"
+            },
+           {
+              "episode": 23,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.23-720p.mp4"
+            }
+          ]
+        },
+
+        {
+          "id": "series_011",
+          "title": "Attack on Titan Season 3 Part 2",
+          "description": "A group of kids in Hawkins...",
+          "poster": "https://image.tmdb.org/t/p/w500/poster2.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/backdrop2.jpg",
+          "rating": 8.7,
+          "year": 2016,
+          "genres": ["Drama", "Fantasy", "Horror"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "duration": "47 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-1.720p.mp4"
+            },
+            {
+              "episode": 2,
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "duration": "55 min",
+              "streamUrl": "https://storages.sokuja.id/video2/SNK/s3.p2/sokuja.net-SNK.S3.P2-2.720p.mp4"
+            }
+          ]
+        },
+        {
+          "id": "series_012",
+          "title": "Demon Slayer: Hashira Training arc",
+          "description": "Tanjiro menjalani pelatihan intensif bersama Hashira Batu, Himejima, dalam upayanya menjadi seorang Hashira. Sementara itu, Muzan terus mencari Nezuko dan Ubuyashiki.",
+          "poster": "https://pbs.twimg.com/media/GK7iJhJWEAEXb6f.jpg",
+          "backdrop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-S544FQr9vjrHiF6kTg0eszMub_6gsLvexpVE3V4s5jctpLj5QPY89zY&s=10",
+          "rating": 8.0,
+          "year": 2024,
+         "duration": "Season 4",
+          "genres": ["Action", "Supernatural"],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://drive.google.com/uc?export=download&id=1-LATpg7iQph8LfcaPo7R0Hwz3AMSytAi"
+            },
+           {
+              "episode": 2,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.2-720p.mp4"
+            },
+           {
+              "episode": 3,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.3-720p.mp4"
+            },
+           {
+              "episode": 4,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.4-720p.mp4"
+            },
+           {
+              "episode": 5,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.5-480p.mp4"
+            },
+           {
+              "episode": 6,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.6-720p.mp4"
+            },
+           {
+              "episode": 7,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.7-720p.mp4"
+            },
+           {
+              "episode": 8,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-8-720p.mp4"
+            },
+           {
+              "episode": 9,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-9-720p.mp4"
+            },
+           {
+              "episode": 10,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-jjk-s2-10-720p.mp4"
+            },
+           {
+              "episode": 11,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-Jjk-S2-11-720p.mp4"
+            },
+           {
+              "episode": 12,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.12-480p.mp4"
+            },
+           {
+              "episode": 13,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.13-720p.mp4"
+            },
+           {
+              "episode": 14,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.14-720p.mp4"
+            },
+
+           {
+              "episode": 15,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.15-720p.mp4"
+            },
+           {
+              "episode": 16,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.16-720p.mp4"
+            },
+           {
+              "episode": 17,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.17-720p.mp4"
+            },
+           {
+              "episode": 18,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.18-720p.mp4"
+            },
+           {
+              "episode": 19,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.19-720p.mp4"
+            },
+           {
+              "episode": 20,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.20-720p.mp4"
+            },
+           {
+              "episode": 21,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.21-720p.mp4"
+            },
+           {
+              "episode": 22,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.22-720p.mp4"
+            },
+           {
+              "episode": 23,
+              "title": "23 min",
+              "duration": "23 min",
+              "streamUrl": "https://storages.sokuja.id/video/jujutsu_kaisen/s2/sokuja.net-JJK.S2.23-720p.mp4"
+            }
+          ]
+        }
+
+
+     
+
+
+
+
+      ]
+    }
+  ]
+}
