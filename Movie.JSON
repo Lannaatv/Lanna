@@ -1,0 +1,346 @@
+{
+  "categories": [
+    {
+      "id": "terbaru",
+      "title": "Terbaru di Cineplus",
+      "items": [
+        {
+          "id": "movie_001",
+          "title": "Phoenix (2025)",
+          "description": "Film Phoenix (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2024/08/film-raayan-2024-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.1,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MhAmKysQD2xwYUV5bmcTGgY0FhYaTEN1IDURfSE/34/480.m3u8"
+        },
+        {
+          "id": "movie_002",
+          "title": "My Daughter is a Zombie (2025)",
+          "description": "Film My Daughter is a Zombie (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2022/06/film-father-of-the-bride-2022-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 8.3,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/OBckLCwdEyAufEV8cQV7Dwc6DQIaISgndGJBeXAHZQ/34/480.m3u8"
+        },
+        {
+          "id": "movie_003",
+          "title": "Pee Nak 4 (2024)",
+          "description": "Film Pee Nak 4 (2024) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2022/07/film-pee-nak-3-2022-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.5,
+          "year": 2024,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Mh0sYysYHGx2fEV8cQR7Dwc6DQIaISh1I2hAfnMCZQ/34/480.m3u8"
+        },
+        {
+          "id": "movie_004",
+          "title": "Mona Lisa Smile (2003)",
+          "description": "Film Mona Lisa Smile (2003) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2022/08/film-orphan-first-kill-2022-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.8,
+          "year": 2003,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LxcnL2gVHjIjfAQhKlwzdXBIeX1oOxs0EDAOExtvbmxzG38qcU0/34/480.m3u8"
+        },
+        {
+          "id": "movie_005",
+          "title": "I Know What You Did Last Summer (2025)",
+          "description": "Film I Know What You Did Last Summer (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/06/film-the-jolly-monkey-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.3,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/K1UiICoOWjYqMANhOl8jdSYRLWMpGAQ1byICIS5VJHVwSHt7aDsbNBAwDhMbbzRgekt_dnEc/34/480.m3u8"
+        },
+        {
+          "id": "movie_006",
+          "title": "Book of the Dead (2024)",
+          "description": "Film Book of the Dead (2024) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/06/film-the-jolly-monkey-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.0,
+          "year": 2024,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IBcmJWgdEiAmfEV8cQR7Dwc6DQIaISgndTMUKndSYw/34/480.m3u8"
+        },
+        {
+          "id": "movie_007",
+          "title": "Devils Stay (2024)",
+          "description": "Film Devils Stay (2024) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/04/film-the-baby-in-the-basket-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.8,
+          "year": 2024,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Jh0_JykKWjI2MA5hcQBkbG86JTsXGA4eGg5ELyABZzt0Tw/34/480.m3u8"
+        },
+        {
+          "id": "movie_008",
+          "title": "Chainsaw Man - The Movie: Reze Arc (2025)",
+          "description": "Film Chainsaw Man - The Movie: Reze Arc (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2024/07/film-justice-league-crisis-on-infinite-earths-part-three-2024-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 8.2,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoJysKFjZvPBYibl05LisdZDwgAxJsIyMUYXEAZG1vOwgDGiEodCA1FnlwUWc/34/480.m3u8"
+        },
+        {
+          "id": "movie_009",
+          "title": "Superman (2025)",
+          "description": "Film Superman (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2016/01/film-mad-max-fury-road-2015.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.0,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MQ05KzcUFi9vY0d-dh0UNDcqKDcaISh4dGUWfSFVZQ/34/480.m3u8"
+        },
+        {
+          "id": "movie_010",
+          "title": "Odum Kuthira Chadum Kuthira (2025)",
+          "description": "Film Odum Kuthira Chadum Kuthira (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2017/01/film-bangalore-days-2014.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.9,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LRw8I2gSAjUqOAUtblM-OSYNJGMuDAMpKyMWYXEAZG1vLwwMATUoGR1jR310BTRucQ/34/480.m3u8"
+        },
+        {
+          "id": "movie_011",
+          "title": "The Ghost Writer (2023)",
+          "description": "Film The Ghost Writer (2023) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/01/film-fateh-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.0,
+          "year": 2023,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JRAmPTFUADMrJRI-bgJmanFVHgsHPTseGg4RLnpUZmAnTA/34/480.m3u8"
+        },
+        {
+          "id": "movie_012",
+          "title": "Hell Hath No Fury (2023)",
+          "description": "Film Hell Hath No Fury (2023) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/03/film-little-siberia-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.8,
+          "year": 2023,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kh0lImgRFjUqfBkjblYjKjtVe353SloWBxMzABxoCTkhHSwqchtF/34/480.m3u8"
+        },
+        {
+          "id": "movie_013",
+          "title": "Dhadak 2 (2025)",
+          "description": "Film Dhadak 2 (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2019/11/film-rascal-does-not-dream-of-a-dreaming-girl-seishun-buta-yaro-wa-yumemiru-shoujo-no-yume-wo-minai-2019-lk21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.3,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JhAoKiQSWnNvY0d-dh0BHQA8BREdJhJzIGZDeiIC/34/480.m3u8"
+        },
+        {
+          "id": "movie_014",
+          "title": "Oblivion Verses (2018)",
+          "description": "Film Oblivion Verses (2018) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2015/12/film-cell-211-2009.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.5,
+          "year": 2018,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LRolJzMQGC9vJxI-MFUldXBIeHZoLjIDBh0oFBwIZz1zGS0vIA/34/480.m3u8"
+        },
+        {
+          "id": "movie_015",
+          "title": "Ruth & Boaz (2025)",
+          "description": "Film Ruth & Boaz (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/01/film-umjolo-my-beginnings-my-end-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.3,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MA09JmgbGCA4fEV8cQV7Dwc6DQIaISgidzMWenUENA/34/480.m3u8"
+        },
+        {
+          "id": "movie_016",
+          "title": "One Battle After Another (2025)",
+          "description": "Film One Battle After Another (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2015/12/film-state-of-grace-1990.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.3,
+          "year": 2025,
+          "genres": [
+            "Action"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LRYsYycYAzUuNFotJUQzKm8ZJyExERIzb2NHfnYdFRkPJxERIEETcnpoFH0/34/480.m3u8"
+        },
+        {
+          "id": "movie_017",
+          "title": "The Cut (2025)",
+          "description": "Film The Cut (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2015/12/film-millers-crossing-1990.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.9,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IQ09Y3dJRXRvBjIOB3wJAB1MeXh8QE5yJA/34/480.m3u8"
+        },
+        {
+          "id": "movie_018",
+          "title": "All of You (2025)",
+          "description": "Film All of You (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2015/12/film-jimi-all-is-by-my-side-2013.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IxQlYzwWAmxwYUV5bmcTGgY0FhYaShR5dzATenc/34/480.m3u8"
+        },
+        {
+          "id": "movie_019",
+          "title": "ConMom (2025)",
+          "description": "Film ConMom (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/08/film-the-last-goodbye-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.2,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRcnIyoUWnNyY0JhFHUUHA4nERF3SEF3cmIWeg/34/480.m3u8"
+        },
+        {
+          "id": "movie_020",
+          "title": "Chentha (2024)",
+          "description": "Film Chentha (2024) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/03/film-bring-them-down-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 6.4,
+          "year": 2024,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAsIDERFmxwYUV4bmcTGgY0FhYaTRZydWZGeCI/34/480.m3u8"
+        },
+        {
+          "id": "movie_021",
+          "title": "Mantis aka Samagwi (2025)",
+          "description": "Film Mantis aka Samagwi (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/03/film-counterstrike-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.8,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/LxknOiwKWiApMFo_Il03PzURZHx1S0JsFRQ1CA9vDgchHXx9cxoWcw/34/480.m3u8"
+        },
+        {
+          "id": "movie_022",
+          "title": "Sirat (2025)",
+          "description": "Film Sirat (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2024/03/film-dune-part-two-2024-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 8.1,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MRE7LzFURXFwZFobBnISFB0gFihwShVzIWVF/34/480.m3u8"
+        },
+        {
+          "id": "movie_023",
+          "title": "Sangre Joven (2025)",
+          "description": "Film Sangre Joven (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2025/04/film-home-sweet-home-rebirth-2025-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/MRknKTccWistJxIibgJmandVHgsHPTseGg5DLiYEYmFxHg/34/480.m3u8"
+        },
+        {
+          "id": "movie_024",
+          "title": "Gates of Flesh (2025)",
+          "description": "Film Gates of Flesh (2025) merupakan sebuah karya sinema yang menarik untuk ditonton. Menceritakan kisah yang penuh dengan emosi dan petualangan yang akan membawa penonton pada pengalaman menonton yang tak terlupakan.",
+          "poster": "https://poster.lk21.party/wp-content/uploads/2023/01/film-the-price-we-pay-2023-lk21-d21.jpg",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 8.2,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "movie",
+          "streamUrl": "https://cloud.hownetwork.xyz/zzz/JRk9KzZUES0nIh9hcQBkbW8vDAwBNSgZHWUSe3AJNW93/34/480.m3u8"
+        }
+      ]
+    }
+  ]
+}
