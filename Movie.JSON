@@ -1,0 +1,1965 @@
+{
+  "categories": [
+    {
+      "id": "maraton_drakor",
+      "title": "Maraton Drakor",
+      "items": [
+        {
+          "id": "series_001",
+          "title": "A Hundred Memories (2025)",
+          "description": "Kisah cinta pertama yang memilukan dari seorang pria yang ditakdirkan untuk menjadi nasib dua wanita yang menjadi pemandu bus di tahun 1980an, dan sebuah komedi melodrama tentang pemuda bersinar yang ditakdirkan untuk menjadi cemerlang.",
+          "poster": "https://image.tmdb.org/t/p/w500/nfObMZAXlAdeRzs4keu4HMWoBJT.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
+          "rating": 8.2,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Comedy",
+            "History"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5df40f2858"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c76207e2a3c"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68cf937f87b4a"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d1f14f65cd3"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d955fa751a0"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68db3c4aea2d8"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3bc782d684"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e4b1502ad24"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ebbbbb513ff"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ec81af50800"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68f41fb5d32c3"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68f5807b4c5fd"
+            }
+          ]
+        },
+        {
+          "id": "series_002",
+          "title": "My Youth (2025)",
+          "description": "Kisah Sun Woo-hae dan Sung Je-yun yang bersatu kembali setelah 15 tahun, berjuang dan hidup sengit di panggung masing-masing.",
+          "poster": "https://image.tmdb.org/t/p/w500/6Z9Ebm6GXTONARr2aASsTPrAEvh.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/a32io4EZZx9LfOYbOsPo9hgvD5x.jpg",
+          "rating": 7.6,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bbb34b7c746"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bbbcaed0834"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c576e71b30e"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5817eb571c"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce433022437"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce4b74b9a25"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d6ca570584c"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d6d03b2bfb2"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3abc17611c"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3ad1eb0f76"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e9ef27acf7e"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68f2ea52c008f"
+            }
+          ]
+        },
+        {
+          "id": "series_003",
+          "title": "Confidence Queen KR (2025)",
+          "description": "Tiga penipu dengan latar belakang berbeda, bekerja sama untuk skema balas dendam yang berani dan penuh petualangan terhadap penjahat di era ini.",
+          "poster": "https://image.tmdb.org/t/p/w500/wUCmw1B6MBRiN6TUSbssKHuJnV0.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/ibT5W5lpedfG9TUmplkMldpDigJ.jpg",
+          "rating": 7.6,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "Crime"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bd05d6a1999"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68be30ad06ad5"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5ceb041a37"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c74cb5dcf28"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ced59c1ab76"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d0a35d3e8db"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d813bc23bbb"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d989a804983"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e39f1e5c3c3"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3aaab0d33d"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ebadb55a718"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ec5e9074d2b"
+            }
+          ]
+        },
+        {
+          "id": "series_004",
+          "title": "Genie, Make a Wish (2025)",
+          "description": "Setelah seribu tahun, jin unik kembali mengabulkan permintaan wanita yang terlahir tanpa perasaan. ",
+          "poster": "https://image.tmdb.org/t/p/w500/opop2u7Jav6lMNL8fSBTzOeFBDz.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2ds9EWX7cwGfZiRjYqhyw7SbzsW.jpg",
+          "rating": 7.8,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Comedy",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3abfb95278"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3b0aa49894"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3b7e12c133"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3bffed8381"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3ca7f500fa"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3d17f10d1b"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3dada9b44f"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3df987b4b8"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3dc11b37cf"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3e1e708fd7"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3e6aadf407"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3eb4d44231"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68e3effd8f9b2"
+            }
+          ]
+        },
+        {
+          "id": "series_005",
+          "title": "The Mantis: Original Sin (2025)",
+          "description": "Cha Su-yeol, seorang petugas polisi yang telah lama membenci ibunya, pembunuh berantai 'Mantis' yang terkenal kejam, harus dengan enggan meminta bantuannya ketika seorang pembunuh peniru muncul.",
+          "poster": "https://image.tmdb.org/t/p/w500/WWGI3LOzufVJavMdy6BAIInMPY.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/4A5TEvk99fCg8WSgImYJ6dqqe8Y.jpg",
+          "rating": 8.4,
+          "year": 2025,
+          "genres": [
+            "Mystery",
+            "Crime",
+            "Thriller"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bbdb0613ef5"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bd0255b958b"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c56c3e0ff40"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5d491010fb"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce3d4eebaec"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68cedca0cf1bd"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d6b665a5b25"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d807f5f2650"
+            }
+          ]
+        },
+        {
+          "id": "series_006",
+          "title": "Tempest (2025)",
+          "description": "Seo Munju, seorang diplomat berprestasi dan mantan duta besar untuk PBB, dan Sanho, seorang agen khusus internasional yang diselimuti tabir rahasia, berlomba untuk mengungkap kebenaran di balik serangan yang mengancam stabilitas masa depan semenanjung Korea.",
+          "poster": "https://image.tmdb.org/t/p/w500/5KmLPZkOLKNgdFxBsQUwlc8RBBD.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/wyCQovekJ10HnmqCE3lPNaoGDde.jpg",
+          "rating": 8.4,
+          "year": 2025,
+          "genres": [
+            "Thriller"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c237f47d4cc"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c23ca5845b0"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c2428dd0f7e"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68cb70208b6de"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68cb773951a0b"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d44a6e6f7e3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d452b8e7282"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68dd042071d85"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68dd0dbbcc6e1"
+            }
+          ]
+        },
+        {
+          "id": "series_007",
+          "title": "Bon Appetit, Your Majesty (2025)",
+          "description": "Setelah melakukan perjalanan ke era Joseon, seorang koki berbakat bertemu dengan seorang raja tiran. ",
+          "poster": "https://image.tmdb.org/t/p/w500/bzYSIw9FTzQXUcWsnDSwlcwok3C.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/rcJH1kg2qIpFJxasgvJzqJUv1jp.jpg",
+          "rating": 8.5,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "History",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68aacbc8b6868"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68abb50b6a6c6"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b3b1d1b2001"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b549aeed877"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bc7f44f023c"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d1a413b9716"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5a157d20f8"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c6ebcdb8643"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ced25b51cd6"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d0224371187"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d80baf4ea5a"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d94f5c71f47"
+            }
+          ]
+        },
+        {
+          "id": "series_008",
+          "title": "My Troublesome Star (2025)",
+          "description": "Sebuah komedi romantis yang mengikuti kisah seorang aktris papan atas yang, setelah mencapai puncak karirnya dan bahkan memenangkan penghargaan Aktris Terbaik termuda, mengalami kecelakaan dan mendapati dirinya dipindahkan 25 tahun ke depan.",
+          "poster": "https://image.tmdb.org/t/p/w500/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/4oMO5uKdGg73NukbeVIPaySZTk0.jpg",
+          "rating": 7.3,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a495589570b"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a6d396753e0"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ad238abebbf"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ae890eb72cf"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b8501da95e0"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b859869d495"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bf8707ee9ad"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c1005718d3b"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c8bb9c4f7d5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ca2cc42a9e3"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d1f72c57c49"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68d33e2fb83fb"
+            }
+          ]
+        },
+        {
+          "id": "series_009",
+          "title": "Mary Kills People (2025)",
+          "description": "Sebuah komedi hitam tentang seorang dokter yang secara ilegal membantu pasien yang sakit parah dengan euthanasia dan seorang detektif yang melacak aktivitas ilegalnya.",
+          "poster": "https://image.tmdb.org/t/p/w500/wUoecijRIAxybUIIXmPK8KWMR38.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/2TCpdsFsOrqWs2Tbk84xZ3GO0TO.jpg",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Crime"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6892d00403729"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6892d83861a6b"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68995cf073994"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689aa06bccf62"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a6f43969539"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ad10af2baae"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ad18e9b1b48"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b53ed758b97"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b9648400f93"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce2cc270cbb"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce374ed2f97"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ce3ad665d23"
+            }
+          ]
+        },
+        {
+          "id": "series_010",
+          "title": "My Girlfriend Is a Man! (2025)",
+          "description": "Seorang mahasiswa jatuh cinta pada kencan buta pertamanya, namun ketika dia secara misterius terbangun sebagai seorang pria, mereka memutuskan untuk tetap bersama dan menunggu dia kembali ke wujud aslinya, menguji batas cinta mereka.",
+          "poster": "https://image.tmdb.org/t/p/w500/sGAE2gkRXUk5totB1vZvVimudtZ.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/uZqjjq7LbGJvHEkOR4WXGKl45D7.jpg",
+          "rating": 7.0,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6882393a49b24"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688ae39727a4e"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688aee2dd2293"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688c363d11550"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68944847b59b1"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689562b03440a"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d632739699"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689e929fa408b"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a6de1336798"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a7f2a3074fc"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68afd5c41df6d"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b1216b7ac5d"
+            }
+          ]
+        },
+        {
+          "id": "series_011",
+          "title": "Love, Take Two (2025)",
+          "description": "Seorang ibu tunggal dan putri mahasiswi kedokterannya memasuki babak kedua yang tidak terduga dalam hidup mereka. ",
+          "poster": "https://image.tmdb.org/t/p/w500/a96ihrij1gaDX9J7JLsG5lFbXjM.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/8pNaJs0aS8IgpqBFCeEmvkCSnOR.jpg",
+          "rating": 7.7,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6892c46242c9e"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689437e93b76a"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689bf596a5165"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d6c9adcdfd"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a6ca29cdb20"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ae6bad79966"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ae763f66d15"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68afcc6e9e68d"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b810d8b763f"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b81a3571889"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c1088425d52"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c255572e752"
+            }
+          ]
+        },
+        {
+          "id": "series_012",
+          "title": "Beyond the Bar (2025)",
+          "description": "Seorang pengacara muda pemula dengan rasa keadilan yang kuat bergabung dengan firma hukum ternama — menavigasi dunia hukum yang kompleks di bawah mentor yang dingin dan menuntut.",
+          "poster": "https://image.tmdb.org/t/p/w500/nN6mZZxJBPZXBjLxnjgpnoRvswk.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/9MEzfTNfnTvCLHXfRu7a5TSJCsx.jpg",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688ecb11e070f"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6890284453db9"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68981aa587c21"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689954b911b15"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a1577bc92b9"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a29d4c53dd6"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68aa738610f1c"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68abbcd4e2ef5"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b3b88eeccc0"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b55195709aa"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bde5a941a1f"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68be2d25d7267"
+            }
+          ]
+        },
+        {
+          "id": "series_013",
+          "title": "Twelve (2025)",
+          "description": "Sekelompok pahlawan, masing-masing mewujudkan salah satu dari 12 tanda zodiak, berjuang untuk mempertahankan Semenanjung Korea dari roh jahat.",
+          "poster": "https://image.tmdb.org/t/p/w500/6q66Psq2cDrCsoz8cGDVa6gFmMm.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/22kJFY1PBSWNsQ4dBJvaaBNgM62.jpg",
+          "rating": 8.3,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ab9af368554"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68aba31e77202"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b3a5ebdde28"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b6b4bbf1ba4"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68bc6b469d036"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68be288881d28"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c5a83166dee"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68c6dfd92168d"
+            }
+          ]
+        },
+        {
+          "id": "series_014",
+          "title": "My Lovely Journey aka I Will Travel for You (2025)",
+          "description": "yang mengharukan serta penyembuhan bagi para pemirsa. Bintang Film: Kim Jae-young, Gong Seung-Yeon, Yoo Joon-sangNegara: South KoreaLihat selengkapnya Play Awal Play TerbaruSeries Terkait ❮ ❯ 6.6 2022EPS5S.3 Drama, Adventure Billy the Kid 8.8 2022EPS16S.1 Drama, Romance Twenty Five Twenty One 7",
+          "poster": "https://via.placeholder.com/500x750/1a1a1a/ffffff?text=My+Lovely+Journey+aka+I+Will+Travel+for+You+(2025)",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_y-N1fqpvc8qOSa8YHkErqKRq3nR0rU0CQYw6K4GZjz4N8RDzVAocvXrDnX4SZEK0eUm0h3W8RiEM79P0T3cjoEq9e3cbSIxYrRECpd5I0SXqASf1QkJ-y_xvt6JhFTj0Hhyphenhyphenz6WYxcq1gQxUdHRG55b4ldmUv8irD0oJ33H3la3IGV-LOpw98hJ6c_1M/s300/b6e2089749c711d9509da32fa73ea10d.gif",
+          "rating": 7.9,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Adventure",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688f21ea4c706"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6890216e7d985"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a76aa77acea"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a772e2cf315"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a77b18b060a"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a7833f10c30"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b95d9c64d94"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ba517c6df60"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ba584b73081"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68ba60e9053ab"
+            }
+          ]
+        },
+        {
+          "id": "series_015",
+          "title": "The Winning Try (2025)",
+          "description": "Mantan bintang rugby yang dipermalukan kembali sebagai pelatih ke tim sekolah menengahnya yang sedang berjuang, di mana dia bertemu kembali dengan mantan pacarnya dan membantu kapten yang gigih memimpin tim menuju penebusan.",
+          "poster": "https://image.tmdb.org/t/p/w500/qgh3m9Oh3CoqVBuWkiMIgVgFwI1.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/c7hvVM7wky5XdsnWSdAOGrQbaaC.jpg",
+          "rating": 8.6,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Sport",
+            "Comedy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68855bf0786ef"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688721901faa4"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688d73d68a471"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688ebd18a7b8d"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6896ad1e2ba32"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6897ffc395449"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689fdbe7c85e7"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a0a7d5c7416"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a9291eae81c"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a9e495e7684"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b1cb569687f"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68b3a01f28618"
+            }
+          ]
+        },
+        {
+          "id": "series_016",
+          "title": "The Defects (2025)",
+          "description": "Sebuah thriller aksi yang menggambarkan balas dendam anak-anak yang nyaris tidak bisa bertahan di ambang kematian setelah ditinggalkan oleh orang tua angkatnya.",
+          "poster": "https://image.tmdb.org/t/p/w500/xKxKRYXZqarVzfSdDFlVINoqONT.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/qi3OQnx5ChhTRbL33pXSahU8r2e.jpg",
+          "rating": 8.4,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Thriller"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68807ab546ab6"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6881b3876e2ce"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68884416e183e"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6889a4c82c9dc"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6892baf44042e"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68943ecccff92"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d53ccbef91"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d5ada03e70"
+            }
+          ]
+        },
+        {
+          "id": "series_017",
+          "title": "Low Life (2025)",
+          "description": "Kisah berbahaya tentang orang-orang kasar yang terobsesi dengan keserakahan tak tahu malu yang berkumpul dengan keserakahan dan logika mereka sendiri untuk menemukan artefak bawah air di lepas pantai Shinan.",
+          "poster": "https://image.tmdb.org/t/p/w500/2Gyy14N4Tdv44OtxPRADcuIIEfJ.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/amYCTA2TsgVKxaGKu3izGyF0rT9.jpg",
+          "rating": 8.4,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Adventure",
+            "Crime"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687876b7f32b5"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68785266a6f20"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6881ee29e75d3"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6881f2eacead3"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6881f791a0831"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688ad7ce2c4f6"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688adb524e0e8"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6894abd368007"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6894af4f3f987"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d31cd88b22"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d368d54b8e"
+            }
+          ]
+        },
+        {
+          "id": "series_018",
+          "title": "Mercy for None (2025)",
+          "description": "Setelah memutuskan hubungan dengan gengnya, seorang mantan gangster kembali untuk mengungkap kebenaran di balik kematian saudaranya — memulai jalur balas dendam tanpa henti.",
+          "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+          "rating": 7.4,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6842e9efd65e8"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6842efcca8115"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6842f4865363d"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6842f92e13770"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6842fdeb60f1c"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68a2d69fdea8a"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6843099894ae8"
+            }
+          ]
+        },
+        {
+          "id": "series_019",
+          "title": "Head Over Heels (2025)",
+          "description": "Seorang dukun remaja bertekad untuk mengubah nasib dan berangkat untuk menyelamatkan seorang anak laki-laki misterius yang ditakdirkan untuk mati. ",
+          "poster": "https://image.tmdb.org/t/p/w500/pwPK2DzhWp0W5SmiK2QmfmsfuNP.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+          "rating": 7.1,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Romance",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685a017fe90c5"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685ba0572ef89"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68638d8273d1b"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6864a91e5312a"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686cf23422be2"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e12810fdde"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68762f22716fb"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687729e6765e3"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687f360383c2a"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688077258f6b1"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688848b72016f"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/689d5c001ad2a"
+            }
+          ]
+        },
+        {
+          "id": "series_020",
+          "title": "S Line (2025)",
+          "description": "Seorang wanita muda dengan kemampuan untuk melihat hubungan merah misterius antara sepasang kekasih menemukan bahwa hadiah rahasianya tidak lagi unik ketika kacamata khusus yang memberikan kekuatan serupa muncul di pasar gelap.",
+          "poster": "https://image.tmdb.org/t/p/w500/7TGolwcia6AI6uvInBOoedAi9Il.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/x0rCzswwYCEm4HM3c8v8L8olB2X.jpg",
+          "rating": 7.8,
+          "year": 2025,
+          "genres": [
+            "Sci-Fi",
+            "Mystery",
+            "Fantasy"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6871b99329334"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6871c0989fe85"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687b56a977205"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687b5dadeff76"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6884d069a9053"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6884d51216141"
+            }
+          ]
+        },
+        {
+          "id": "series_021",
+          "title": "Salon De Holmes (2025)",
+          "description": "Empat ibu rumah tangga yang terabaikan, terbebani oleh tugas sehari-hari dan diabaikan oleh orang-orang di sekitar mereka, menemukan tujuan baru dengan menyelesaikan kasus sehari-hari—mendapatkan kembali suara mereka dan menghidupkan kembali mimpi yang telah lama terlupakan.",
+          "poster": "https://image.tmdb.org/t/p/w500/a6UEiKPMAnOS05nSzVnyJWqUzqN.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/54vPykeG7ZT0s4KxhOupkhvzZlB.jpg",
+          "rating": 7.7,
+          "year": 2025,
+          "genres": [
+            "Mystery"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6852600f74c9e"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6852670ceb48a"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68622cd105f87"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686233dbea42c"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e198871abd"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e20994307f"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e2798d9824"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e2fd11895b"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68762a7568b5e"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6877336198670"
+            }
+          ]
+        },
+        {
+          "id": "series_022",
+          "title": "Hunter with a Scalpel (2025)",
+          "description": "Seorang penyelidik forensik wanita terkemuka menderita gangguan kepribadian antisosial dan proses di mana bayangan ayah yang dia bunuh mengancam kehormatan dan nyawanya.",
+          "poster": "https://image.tmdb.org/t/p/w500/vgLhGiCIV59FuPYKb6BDFGMsmFx.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/fkbkcx0uhfGOSUGh0uaSAnDmoV4.jpg",
+          "rating": 8.8,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Mystery",
+            "Crime"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6851bf56b6b5b"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6851cb05c080d"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6857e19d5e52a"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6857e522629b6"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685a127460e5b"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685a167643c11"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685eb4671cd2b"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/685eb8663b29a"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6868be4b54490"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6868c1d2dcb65"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6868c552e0bcc"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6868ca05e8d78"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686cc331af913"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686cc6ba34ac0"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686e0a2bdf6a8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68712e1a2005a"
+            }
+          ]
+        },
+        {
+          "id": "series_023",
+          "title": "Our Movie (2025)",
+          "description": "Seorang sutradara tanpa masa depan dan seorang aktris tanpa hari esok jatuh ke dalam kisah cinta yang tidak bisa ditunggu.",
+          "poster": "https://image.tmdb.org/t/p/w500/4tEVuEVaPUvfddItXAEcL8zxOxr.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/C8FKBkJsUMV5ezhhupvA0lmX2w.jpg",
+          "rating": 7.3,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6851d358f404a"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6851da573819a"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6857d8543c9f4"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6857de2e79ab9"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68612e6cbfb75"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6861344c1274f"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6868cff153175"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/686a76fcc0953"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6876029bbb962"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687609a450230"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687b4faabca03"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/687db11fd7ab0"
+            }
+          ]
+        },
+        {
+          "id": "series_024",
+          "title": "Heesu in Class 2 (2025)",
+          "description": "Hee-su menyembunyikan cintanya pada sahabatnya—sampai sahabatnya itu jatuh cinta pada orang lain, dan keheningan mulai menyakitkan.",
+          "poster": "https://image.tmdb.org/t/p/w500/lCjB943DiwohayuxmLffHEc4DmP.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/weYIyGOCINk6CErYF9s8C3igfAr.jpg",
+          "rating": 8.9,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "Romance"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/67ece1d0efaea"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/67ece67d46b42"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68000439b5300"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6883075a665ee"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68830d45ed631"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/6883131b678f1"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688318eda804f"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68831ee280650"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/688325df51c8d"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://emturbovid.com/t/68832ce9ea2e4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
