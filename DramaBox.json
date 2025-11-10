@@ -1,0 +1,1792 @@
+{
+  "categories": [
+    {
+      "id": "romance",
+      "title": "Romance",
+      "items": [
+        {
+          "id": "drama_001",
+          "title": "Gadis Terbuang jadi Dewi Idola",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000046/42000000046.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000046/42000000046.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2000,
+          "genres": [
+            "Melawan Balik",
+            "Romansa",
+            "Melawan-Balik"
+          ],
+          "type": "series",
+          "episodeCount": 75,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002735_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002735_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002736_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002736_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002737_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002737_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002738_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002738_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002739_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002739_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002740_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002740_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002741_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002741_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002742_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002742_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002743_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002743_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002744_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002744_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002745_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000046_Gadis-Terbuang-jadi-Dewi-Idola/700002745_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_002",
+          "title": "Suamiku Ternyata Kakak Sahabatku",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000035/42000000035.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000035/42000000035.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2000,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 74,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002025_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002025_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002026_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002026_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002027_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002027_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002028_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002028_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002029_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002029_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002030_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002030_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002031_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002031_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002032_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002032_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002033_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002033_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002034_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002034_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002035_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/42000000035_Suamiku-Ternyata-Kakak-Sahabatku/700002035_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_003",
+          "title": "Istriku Punya Kekuatan Super",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000036/42000000036.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x2/42x0/420x0/42000000036/42000000036.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2000,
+          "genres": [
+            "Melawan Balik",
+            "Romansa",
+            "Melawan-Balik"
+          ],
+          "type": "series",
+          "episodeCount": 70,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656246_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656246_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656247_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656247_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656248_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656248_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656249_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656249_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656250_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656250_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656251_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656251_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656252_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656252_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656253_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656253_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656254_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656254_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656255_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656255_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656256_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123027_Reborn-Her-Only-Mercy-is-Victory/602656256_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_004",
+          "title": "Di Ujung Gelap, Ada Cahaya",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123038/41000123038.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123038/41000123038.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Melawan Balik",
+            "Romansa",
+            "Melawan-Balik"
+          ],
+          "type": "series",
+          "episodeCount": 60,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779864_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779864_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779865_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779865_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779866_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779866_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779867_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779867_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779868_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779868_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779869_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779869_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779870_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779870_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779871_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779871_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779872_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779872_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779873_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779873_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779874_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123038_Di-Ujung-Gelap-Ada-Cahaya/602779874_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_005",
+          "title": "Balas Dendam yang Melenceng",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123124/41000123124.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123124/41000123124.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 69,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779795_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779795_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779796_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779796_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779797_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779797_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779798_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779798_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779799_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779799_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779800_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779800_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779801_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779801_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779802_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779802_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779803_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779803_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779804_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779804_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779805_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123124_Balas-Dendam-yang-Melenceng/602779805_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_006",
+          "title": "Rahasia Dua Jiwa",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123140/41000123140.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123140/41000123140.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 60,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932028_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932028_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932029_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932029_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932030_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932030_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932031_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932031_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932032_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932032_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932033_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932033_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932034_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932034_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932035_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932035_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932036_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932036_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932037_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932037_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932038_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123323_Of-His-Day-and-Night/602932038_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_007",
+          "title": "Permainan Bertahan Hidup",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123121/41000123121.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000123121/41000123121.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 60,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746056_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746056_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746057_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746057_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746058_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746058_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746059_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746059_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746060_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746060_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746061_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746061_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746062_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746062_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746063_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746063_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746064_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746064_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746065_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746065_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746066_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122566_Trapped-in-Dangerous-Liaisons/602746066_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_008",
+          "title": "Bunga Mekar dari Air Mata",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122753/41000122753.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122753/41000122753.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 60,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841877_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841877_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841878_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841878_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841879_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841879_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841880_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841880_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841881_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841881_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841882_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841882_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841883_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841883_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841884_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841884_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841885_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841885_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841886_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841886_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841887_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122379_Love-not-Lost-to-Memory/601841887_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_009",
+          "title": "Setelah Cinta Terlambat Datang",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122755/41000122755.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122755/41000122755.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 80,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442330_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442330_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442331_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442331_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442332_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442332_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442333_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442333_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442334_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442334_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442335_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442335_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442336_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442336_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442337_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442337_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442338_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442338_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442339_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442339_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442340_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122897_Anything-and-Everything-to-Win-Her-Back/602442340_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_010",
+          "title": "Bangkit Bersama Putriku",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122989/41000122989.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122989/41000122989.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 64,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908288_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908288_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908289_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908289_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908290_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908290_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908291_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908291_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908292_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908292_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908293_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908293_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908294_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908294_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908295_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908295_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908296_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908296_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908297_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908297_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908298_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000123317_Together-We-Stand-Together-We-Love/602908298_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_011",
+          "title": "Siapa Bilang Perceraian Akhir Segalanya?",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122860/41000122860.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122860/41000122860.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 74,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515461_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515461_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515462_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515462_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515463_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515463_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515464_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515464_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515465_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515465_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515466_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515466_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515467_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515467_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515468_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515468_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515469_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515469_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515470_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515470_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515471_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122928_Keep-the-Ring-I-ll-Take-My-Crown/602515471_Episode-11"
+            }
+          ]
+        },
+        {
+          "id": "drama_012",
+          "title": " Jangan Bilang Kakakku Kau Pacarku",
+          "description": "Sinopsis",
+          "poster": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122864/41000122864.jpg@w=240&h=400",
+          "backdrop": "https://thwztchapter.dramaboxdb.com/data/cppartner/4x1/41x0/410x0/41000122864/41000122864.jpg@w=240&h=400",
+          "rating": 7.5,
+          "year": 2025,
+          "genres": [
+            "Romansa"
+          ],
+          "type": "series",
+          "episodeCount": 51,
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433032_Episode-1"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433032_Episode-1"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433033_Episode-2"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433033_Episode-2"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433034_Episode-3"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433034_Episode-3"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433035_Episode-4"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433035_Episode-4"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433036_Episode-5"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433036_Episode-5"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433037_Episode-6"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433037_Episode-6"
+            },
+            {
+              "episode": 13,
+              "title": "Episode 13",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433038_Episode-7"
+            },
+            {
+              "episode": 14,
+              "title": "Episode 14",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433038_Episode-7"
+            },
+            {
+              "episode": 15,
+              "title": "Episode 15",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433039_Episode-8"
+            },
+            {
+              "episode": 16,
+              "title": "Episode 16",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433039_Episode-8"
+            },
+            {
+              "episode": 17,
+              "title": "Episode 17",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433040_Episode-9"
+            },
+            {
+              "episode": 18,
+              "title": "Episode 18",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433040_Episode-9"
+            },
+            {
+              "episode": 19,
+              "title": "Episode 19",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433041_Episode-10"
+            },
+            {
+              "episode": 20,
+              "title": "Episode 20",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433041_Episode-10"
+            },
+            {
+              "episode": 21,
+              "title": "Episode 21",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433042_Episode-11"
+            },
+            {
+              "episode": 22,
+              "title": "Episode 22",
+              "duration": "5-10 min",
+              "streamUrl": "https://www.dramabox.com/in/video/41000122864_Jangan-Bilang-Kakakku-Kau-Pacarku/602433042_Episode-11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
