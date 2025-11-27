@@ -1,0 +1,1041 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",beIN SPORTS USA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/justembeds.m3u8?id=afdb73c451239369681c5e34207bf17a
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",DAZN 1 US
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/justembeds.m3u8?id=29f80fe360ea09758cda99ec2eb61fd2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/justembeds.m3u8?id=tgcyutly3zujtd3bgef8nevyy5v5n301
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b5d217f06033494f8c536322324231eb":"b6c80055ee20cf222d792ce702b3644a"}
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Astro SHOWCASE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b8090c8361cc5cc5c1aac0ec2710de10":"ca0d18538845bae2cb4f4a168036f174"}
+https://test.ambatukan.workers.dev/astro/5054/zt695n1m/default_ott.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9e347b2c4bea567b9bf6382dcaa8c53f":"1909044fad31a92ca7a8a6286ea18a0f","af2dc0c4281f5debb1b7740fa2e1e938":"c82c84f1728296fef22e036489126dba","64203c62ad8053a3ba4a0309259e1dc5":"849bb8b019eeb0761a257c1301d0020f"}
+https://test.ambatukan.workers.dev/polsat/zt695n1m/index.mpd?id=disneychannel
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ba5a16f647575d068af9fd67045cfdc4":"2f235b3be6cbf5e2391deb659d49eb92","afb526949def527995e91ad73dad1ebb":"10dc8a4babedb7ef6f2fb551c0cf30c7","f5d78f2bd911555fb777214afbf723dd":"59afd7568f85a87a9c73a91aa42603b3"}
+https://test.ambatukan.workers.dev/polsat/zt695n1m/index.mpd?id=disneyjunior
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="Sports",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"efda647dad723563b625be8c05ee6110":"6776985938b332164b97b81fe566a34a"}
+https://test.ambatukan.workers.dev/astro/2604/zt695n1m/default_ott.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1; wv)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ead0335d60401225727a6d531e9c2710":"1ee3b252227c5c2ec9378c833d2e14ff"}
+https://test.ambatukan.workers.dev/astro/5057/zt695n1m/default_ott.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png" group-title="Sports",Astro Sports Plus
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"81352bc47ec1177b321ee65ac1be7f10":"c8b886142005d7e5067c8717777eaac4"}
+https://test.ambatukan.workers.dev/astro/5171/zt695n1m/default_ott.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORT 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"751db0bb03145084973c6cf9c85fa16e":"6571153c39eed18c29cdc63eb83c553a","4853dbe4c4cf51f3ba95424c6e6f69c7":"39c0346198bc9b1614eb319115afdb84","fd9b5f8ae64a51edacd4f245ef515287":"c867d24646b170b5c0e0556b56b291d7"}
+https://test.ambatukan.workers.dev/polsat/zt695n1m/index.mpd?id=elevensports1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Sports",ELEVEN SPORT 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a118a928ea39552f976c8fad437f71ad":"f58fb7a53ee86de9d0b9823446ba9756","78f826af752f54ddbc4ad9959ff2a42d":"c1479ffada263000730d627a989e96ab","95c2aefadb7e522c9deeed393207f853":"16e857224e16ab01a3c549212cdbdbb8"}
+https://test.ambatukan.workers.dev/polsat/zt695n1m/index.mpd?id=elevensports2
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",TV2 SPORT1 Norway
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b56466b2ebc728cc1ddd7e4a84eeb220":"14d539488ce818a55862d61a68a7df03","b56466b2ebc728cc1ddd7e4a84eeb210":"c7cccb521aa5bcde0608d95183ecccd7"}
+https://test.ambatukan.workers.dev/telenor/sm_tv2sport1_live/zt695n1m/playlist.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",TV2 SPORT2 Norway
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1b129c0dbe948d4dfa5ed80db4f3bc20":"2017f15fb60a08d12e4989071a14a636","1b129c0dbe948d4dfa5ed80db4f3bc10":"bccb0cd2d2191c5a2e1528140651db29"}
+https://test.ambatukan.workers.dev/telenor/sm_tv2sportskanalen_live/zt695n1m/playlist.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg",HBO
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd?sign=1240975c068d7e409aa27a6ee35ff21e&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/20190906064620.png",HBO Signature
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd?sign=d0f369b12f3da6afd14c1a9b3b9f12a3&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d054fbf67379f/20190906064255.png",HBO Hits
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd?sign=b21933847ac61ba6f20cf6f0c49aa658&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d055927fe37a4/20190906065312.png",HBO Family
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd?sign=5acf10b11529209a18c92fe06bd0b61f&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/20190829060720.jpg",Cinemax
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd?sign=b25eaca2eedced86ba7666d01de95249&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68595d0c2ed01961380bf580430/20250408063619.jpg",tvN Movies
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd?sign=bad9a613c0e36b57f195bee89ca5167f&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d0555b83e37a3/20220705042709.jpg",Cinema World
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd?sign=b9af873a1cc36581b9ee244ac2d4fbc0&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68587f789fe0188421147c760f4/20230522060648.jpg",Celestial Movies
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68587f789fe0188421147c760f4/manifest.mpd?sign=47d2bf629cd8526a603c9f2154cbf42f&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856fd0d66d0170341bf1000905/20200211115651.png",Bioskop Indonesia
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd?sign=5f89d5094704b178f1e71e73763e55b0&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856fd0d66d0170334acaa90393/20200211080824.png",Zee Bioskop
+https://cdnjktbpid02.transvision.co.id/live/master/108/4028c6856fd0d66d0170334acaa90393/manifest.mpd?sign=6aa1c1c8653997f59b7ad6d348dfade1&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68587f789fe0188421264d560f5/20230522060801.jpg",Thrill
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd?sign=c7fabf03eea15682b1f6e1bbf2f02c8b&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729cc464d33c0b/20220720123845.jpg",Movies News
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd?sign=2543461b8f126bf026b07c076e9133cd&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/20190708050512.jpg",Cartoon Network
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd?sign=d53bdb07bb7997ff52527dcc3c1a5806&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d055f43ff37a5/20230727145650.jpg",Cartoonito
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd?sign=e321dc184cf5d779f5097b8148d507c2&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856b8d2390016b9c47b6f01de1/20220720133031.jpg",Cartoon TV Premium
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd?sign=e0483306c648464018443e46da78b185&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d144f21811dc9/20220720133014.jpg",Cartoon TV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd?sign=b595f6a132d1b0ab3d3b71bf28855333&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/20190829070700.png",Dunia Anak
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd?sign=aea084e3123ee5edd4dd641657282657&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Kids" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff0490184560100c34363/20221108065017.jpg",Cartoon TV Classics
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd?sign=d52e7b2c8452ec128ce01af9165e83aa&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Education" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e018259716f7821f0/20220801124622.jpg",Knowledge+
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd?sign=032c1520a89b804b0c0bab9a83d57430&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Education" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729c86e3cf3bff/20200610043945.jpg",CGTN Documentary
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd?sign=ed64f769ea9cbe216f39ad0e25176042&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856b6088c3016b87da299e0b56/20190705043114.jpg",AXN
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd?sign=85407f41eccbea4529737d0471e69e04&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cf0b533fe73e3/20190902064142.png",Warner TV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd?sign=d4895a972a116874733828060989a6e2&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d0642d33e6d20/20251112085205.png",TV5 Monde
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd?sign=8d953f4feb868b84cb07a124d488a363&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff049018455ff15294362/20221108064811.jpg",One TV
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd?sign=5f4b216093b3baefe0e83880295aa9e1&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017e9052a68542f9/20250806043307.jpg",tvN
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd?sign=c0cdb206a5d13131c082aa240396e46d&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856f08326c016f5589608831bb/20191230064104.png",KBS World
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f5589608831bb/manifest.mpd?sign=3e138f7004de8ed731466f0130f39b29&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cf0b78ee573e4/20211213063423.png",ONE
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016cf0b78ee573e4/manifest.mpd?sign=a653f8d8ae347cc39de40d6da180c046&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685910daca60191a29de97f443a/20240927063244.jpg",Channel Jowo
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd?sign=2b5649e91a29c069ea8adb98744f63a3&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cdc51294b4f8e/20190910060212.png",!nsert
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd?sign=2c17cb71852c788b1839d0a7301b6c39&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856ea34e35016ef8e9fdf951c1/20191212070154.png",Dunia Lain
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd?sign=fcc3b391cecea7a12d134c17b5d9e1e4&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Asian Entertainment" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a4243017317e334101575/20200704033352.png",CCTV 4
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017317e334101575/manifest.mpd?sign=7b37c94e37586613a4fa17556370a017&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ace4a654c8a/20221106023904.jpg",Travel TV
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd?sign=7b7f96ac4f9c5901266e2174fbb9cfa3&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856fd0d66d0170342015d30907/20200211120122.png",Eat N Go
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd?sign=f212a3a6e318506ffbd2a1ea9091bf4a&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ad6cc8b4c8b/20221106024822.jpg",Fashion TV
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd?sign=7052844154e45c0a816d14129b564c2b&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e0182597009c021ef/20220801124451.jpg",Cooking TV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd?sign=a6a7d65975e47cb04185653ca18075ff&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e01825972299121f1/20220801124710.jpg",Gaming TV
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd?sign=d94cd7df0150c715a9ac7ff94976be7b&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ad943c54c8c/20221106025103.jpg",SuperYacht TV
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd?sign=0778c91331f1446caf9f97e98cb74ab0&time=1764214890
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a4243017317dee5df1572/20250604053435.jpg",Musik Indonesia
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd?sign=4d8562e2ab93da4d06a9af5b37ab3c11&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Music" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff0490184560acf62436a/20221108070059.jpg",Song TV
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd?sign=191aa819d54e172ea826fcc468bbaec0&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d063630b46d1c/20190906105437.png",CNN International
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd?sign=9f98ee09f1e06cdfab48476d0fd4b95d&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016d0640033e6d1f/20190906110521.png",CNA
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd?sign=0b361c3af8155c0c4488da594e00cfb0&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856df6711d016e111c808d00a5/20191028064510.png",ABC Australia
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd?sign=4c17da0982f7c4e63a54f6acd8a671c9&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858e523590018e54a335c40489/20240703071826.png", CNBC Asia
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6858e523590018e54a335c40489/manifest.mpd?sign=e81163210836f5bcaf711ab309c08880&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856f08326c016f0dbdf70005f5/20191216080551.png",Al Jazeera
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd?sign=9b82585369b9616428d367c14c2ac177&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856f08326c016f0dbf97d305f6/20191216080737.png",DW
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856f08326c016f0dbf97d305f6/manifest.mpd?sign=066d37bb247d747719ee4063993e2a3e&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017f3100bab72abc/20220225131414.png",Euronews
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd?sign=a3b820d314e2850e382a26aba5e89af5&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856f08326c016f556faa7a31b6/20191230061259.png",France 24
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856f08326c016f556faa7a31b6/manifest.mpd?sign=db61916ca07ce9390c06e5e18bcba49f&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729c8468973bfe/20200610043702.jpg",CGTN
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd?sign=ad5c3aa4c5ccbf23b1d7c5ccebe5f355&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729cea1be63c1b/20200610062807.jpg",Russia Today
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd?sign=4bc8442a44a0784cdd24909a49506075&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856fd0d66d01703417ea3a0901/20200211115227.png",Arirang
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd?sign=a96cd5373bf2b4f5b694e0ed4a590639&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729d434e393c21/20210912171312.png",Wion TV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd?sign=688a567abd3a8a7bd9f13d85a574865d&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Business & News" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/2c9f9082998232e0019a03d24fa61ddf/20251020225145.jpg",Channel Test
+https://cdnjktbpid02.transvision.co.id/riutx01/dash/QUJDIEF1c3RyYWxpYQ/nokey/manifest.mpd?sign=4601b19ddc488f8078bb53eed0b9cf16&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a424301731849249d1577/20200706020331.png",Al Quran Al Kareem
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a424301731849249d1577/manifest.mpd?sign=25fdd8fbc58c1c78bc1444640b6f818c&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729ce8f25d3c1a/20200610062651.jpg",tv Mu
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd?sign=5d6a7ff7c5e9c83a3b5dbb9b4a388387&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a4243017321f12b4d2d08/20230404074748.jpg",TV9
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd?sign=6d54cff69075b9cd8a5c6275dafb3209&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68588e2da5a01892e3755c046bf/20230707023846.jpg",Nabawi TV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd?sign=75b25c16c06abc9132d2d16c288f9e26&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68598610fad0198f5ac5af94a48/20250829184653.jpg",DayStar
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd?sign=6381e83ba0640f3dd26131ba1181a0f9&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729cbde4783c06/20200610053950.jpg",DAAI TV
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd?sign=225b52ef7bcedf69b3b7c16991deaa02&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a4243017321f355172d0c/20200706022742.jpg",Pijar TV
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd?sign=459efeec303693dc249708a3e863be29&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Religious" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856f08326c016f557be28131b9/20191230062619.png",Khazanah
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd?sign=9c2c78d1a437e9e0288a028847c30471&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685651d7bcc01651f0b6d210096/20190705082201.jpg",Trans TV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd?sign=efae681b4e7931718962b14191cff855&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685651d7bcc01651f0db0bf0097/20190705042420.jpg",Trans 7
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685651d7bcc01651f0db0bf0097/manifest.mpd?sign=dfb3b17afdf841ab42f87ed8076086b3&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e548c62390/20190910082909.png",MetroTV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd?sign=e7edc93fd3fd99481b9ca18a88cc4b13&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685651d7bcc01651f0e4ce10098/20190705042436.jpg",CNN Indonesia
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd?sign=cd4ab82eb61c4366fa1ed7fa7abde046&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68565fa79ce01665868040a343f/20190705042615.jpg",CNBC Indonesia
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd?sign=310fb75d4d15d02d61bc75ab7819ac34&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e647532391/20190910082610.png",SCTV
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd?sign=2468bef10dee209553dec6e1221314d9&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e773b02392/20190828062628.png",Indosiar
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd?sign=50d80af2f53ce27cf42601ab0ca36cf7&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e825832393/20190910083854.png",RCTI
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=d3fa0b94bc9ff330e5b180495ab35227&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e8eda22394/20190910083559.png",GTV
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd?sign=148f80093338fc3afe2cda5e23ab7d84&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729cd58bce3c14/20200610060540.jpg",Jak tv
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd?sign=38b3f0b2262386b6834bfdafdd5b71f3&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729c80f0d63bfc/20241231115902.png",BTV
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd?sign=cfee69efa958a5b8ba74e9b39aebce9b&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729ce2a0d83c16/20200610061957.jpg",Kompas TV
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd?sign=b90d556e08015891761b580cab949e3f&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685758bcfff01776bc7624307ab/20250306075631.png",MDTV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd?sign=520dc862f865ab32e8b52212bbd634e2&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68572841ba301729ce4a1343c17/20200610062208.jpg",rtv
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd?sign=45c2b3b8178cb837fa5dfd3f2c992c66&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6ebd82f2396/20190906102710.png",MNC TV
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd?sign=94a18a1262f26864dbf45fb7c0d97b20&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68570f25e2e01716841059b3e25/20200411082601.png",TVRI
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd?sign=ac2d615a02273dbffb68f0851d4063b2&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685730a42430173142e26ba7b17/20200703101715.png",jtv
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd?sign=d2fed7a631dc85c09e07514cba7c0938&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cd06bed442f/20250422092445.png",Berita Satu
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd?sign=cd489188c72d7eae971174a73c58c119&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="National TV" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cf102264bf3/20250422100020.jpg",Garuda TV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd?sign=c77e59d6f0243e7fa1ecc66f4470f724&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68571b3914b01720e7ff4376d21/20250808015344.jpg",GOLF PLUS ID
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd?sign=f0eb4fa32a1e277f100d9fbc0bcfd9af&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e0182597777ec21f3/20220801125257.jpg",Football TV
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd?sign=5f06d85f00279fc079fb740d5d6d69b1&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68582449a2e0182597898d221f4/20220801125411.jpg",Sports TV
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd?sign=2d816451f044992a5e81ff58bd2f0a41&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ae4bddf4c90/20221106030336.jpg",Xtrem Sports
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd?sign=4359f76c13ac70d389db1d24bf43434a&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ae836cf4c92/20221106030723.jpg",Speed TV
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd?sign=850fa47444be9996003eb22816791643&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901844ae271994c8f/20221106030105.jpg",Fight TV Premium
+https://cdnjktbpid02.transvision.co.id/FC-125/test-fightTV/manifest.mpd?sign=bf5e3b739e2e1ebc5a4818cefcda9d1d&time=1764214891
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/zt695n1m/drm
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/000000008d1b3a72018dbfcd427f46ab/20250630002752.jpg",PSJ TV
+https://cdnjktbpid02.transvision.co.id/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd?sign=f306e771c31b9b8de84903d46f722ab0&time=1764214891
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Memphis Grizzlies vs New Orleans Pelicans
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=5
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",San Jose Sharks vs Colorado Avalanche
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=36
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Minnesota Wild vs Chicago Blackhawks
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=72
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Montreal Canadiens vs Utah Mammoth
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=78
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Houston Rockets vs Golden State Warriors
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=37
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",San Antonio Spurs vs Portland Trail Blazers
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Phoenix Suns vs Sacramento Kings
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=86
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Dallas Stars vs Seattle Kraken
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=6
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Ottawa Senators vs Vegas Golden Knights
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIVE NOW",Vancouver Canucks vs Anaheim Ducks
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://test.ambatukan.workers.dev/zt695n1m/365.m3u8?id=8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/417.png" group-title="Local",SINPOTVHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=416
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=416
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/410.png" group-title="News",TVParlemen
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=410
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=410
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/188.png" group-title="Movies",ZBioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=188
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=188
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/333.png" group-title="Religi",FirstFaithHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=333
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=333
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/153.png" group-title="Entertainment",Dragon
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=153
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=153
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/98.png" group-title="Movies",HitsMoviesHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=98
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=98
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/27.png" group-title="Entertainment",FH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=27
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=27
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/251.png" group-title="Entertainment",Anhui
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=251
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=251
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/245.png" group-title="Entertainment",Jiangsu
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=245
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=245
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/151.png" group-title="Religi",Kairos
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=151
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=151
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/82.png" group-title="Local",MOJI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=82
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=82
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/26.png" group-title="Entertainment",tvNHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=26
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=26
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/294.png" group-title="Lifestyle",Hunan
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=294
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=294
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/167.png" group-title="Religi",GMSHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=167
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=167
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/289.png" group-title="Entertainment",ZhejiangTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=289
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=289
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/272.png" group-title="Entertainment",ShenzenTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=272
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=272
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/300.png" group-title="E-sport",FirstWarriors
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=300
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=300
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/146.png" group-title="Religi",SUNNAHTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=146
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=146
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/91.png" group-title="Local",JTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=91
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=91
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/143.png" group-title="News",TVOne
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=143
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=143
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/247.png" group-title="Entertainment",RAI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=247
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=247
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/256.png" group-title="Documenter",LoveNatureHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=256
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=256
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/290.png" group-title="Local",SCTVHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=290
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=290
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/218.png" group-title="Local",IndosiarHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=218
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=218
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/292.png" group-title="Religi",CitraMuslimHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=292
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=292
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/195.png" group-title="Documenter",CGTNDocumentaryHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=195
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=195
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/3.png" group-title="News",AljaArab
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=3
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=3
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/158.png" group-title="News",ABCAustralia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=158
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=158
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/238.png" group-title="Local",JakTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=238
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=238
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/316.png" group-title="News",BloombergHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=316
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=316
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/303.png" group-title="Religi",TBNAsia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=303
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=303
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/172.png" group-title="Documenter",DiscoveryHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=172
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=172
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/123.png" group-title="Local",kompasHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=123
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=123
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/174.png" group-title="Entertainment",Hits
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=174
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=174
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/203.png" group-title="Religi",TV9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=203
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=203
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/298.png" group-title="News",CNAHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=298
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=298
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/119.png" group-title="Documenter",DiscoveryAsia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=119
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=119
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/99.png" group-title="News",AljaIntHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=99
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=99
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/291.png" group-title="Entertainment",KBSWorldHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=291
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=291
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/148.png" group-title="Local",TVRI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=148
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=148
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/296.png" group-title="Kids",CartoonNetworkHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=296
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=296
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/1.png" group-title="Entertainment",HGTVHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=1
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=1
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/52.png" group-title="Religi",AlquranAlkareemTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=52
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=52
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/114.png" group-title="Entertainment",WarnerTVHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=114
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=114
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/250.png" group-title="Documenter",AnimalPlanetHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=250
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=250
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/112.png" group-title="News",CGTN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=112
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=112
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/165.png" group-title="Lifestyle",FoodNetworkHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=165
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=165
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/102.png" group-title="News",TRTWorldHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=102
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=102
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/215.png" group-title="News",IDX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=215
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=215
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/103.png" group-title="News",MetroTVHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=103
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=103
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/206.png" group-title="Religi",DAAITV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=206
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=206
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/317.png" group-title="News",RTHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=317
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=317
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/220.png" group-title="Religi",EWTN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=220
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=220
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/204.png" group-title="Lifestyle",AFNHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=204
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=204
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/210.png" group-title="News",CCTV4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=210
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=210
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/311.png" group-title="Entertainment",TV5HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=311
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=311
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/80.png" group-title="Kids",HoreeHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=80
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=80
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/191.png" group-title="News",ArirangHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=191
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=191
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/258.png" group-title="Religi",ReformedHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=258
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=258
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/94.png" group-title="News",DWEnglishHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=94
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=94
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/224.png" group-title="Lifestyle",FirstLifestyleHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=224
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=224
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/241.png" group-title="Entertainment",NHKWORLDJapanHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=241
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=241
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/304.png" group-title="Kids",Nick_Jr
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=304
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=304
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/243.png" group-title="News",EuroNews
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=243
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=243
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/86.png" group-title="News",France24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=86
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=86
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/21.png" group-title="Local",BalaikotaChannel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=21
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=21
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/21.png" group-title="Local",BalaikotaBandung
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=68
+https://test.ambatukan.workers.dev/firstmedia/zt695n1m/play.mpd?id=68
+
