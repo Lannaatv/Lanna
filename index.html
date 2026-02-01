@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Halaman Gambar</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: rgb(136, 177, 255);
+      text-align: center;
+      font-family: Arial, sans-serif;
+    }
+
+    .hero-img {
+      margin-top: 100px;
+      max-width: 80%;
+      height: auto;
+    }
+
+    .hero-text {
+      margin-top: 20px;
+      font-size: 24px;
+      font-weight: bold;
+      color: #000;
+    }
+
+    /* ─── News Section ─── */
+    .news-section {
+      margin: 40px auto 60px;
+      max-width: 900px;
+      padding: 0 16px;
+    }
+
+    .news-header {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .news-header .line {
+      flex: 1;
+      max-width: 80px;
+      height: 2px;
+      background: rgba(255,255,255,0.6);
+      border-radius: 1px;
+    }
+
+    .news-header h2 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.25);
+      white-space: nowrap;
+    }
+
+    /* Grid: 1 col mobile → 2 col tablet+ → 3 col desktop */
+    .news-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+
+    @media (min-width: 520px) {
+      .news-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (min-width: 780px) {
+      .news-grid { grid-template-columns: 1fr 1fr 1fr; }
+    }
+
+    /* Card */
+    .news-card {
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .news-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.18);
+    }
+
+    .news-card a {
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .card-img-wrap {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #ddd;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .card-img-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* Source badge (Kompas / Tribun / Viva) */
+    .source-badge {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      font-size: 11px;
+      font-weight: 700;
+      color: #fff;
+      padding: 3px 8px;
+      border-radius: 20px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .source-badge.kompas { background: #e55225; }
+    .source-badge.tribun { background: #d50032; }
+    .source-badge.viva   { background: #f7941d; }
+
+    .card-body {
+      padding: 14px 16px 18px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .card-body h3 {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1a1a1a;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .news-card:hover .card-body h3 {
+      color: #1a6bd4;
+    }
+
+    /* Loading / Error state */
+    .news-status {
+      color: #fff;
+      font-size: 15px;
+      padding: 30px 0;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 28px;
+      height: 28px;
+      border: 3px solid rgba(255,255,255,0.4);
+      border-top-color: #fff;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: middle;
+      margin-right: 8px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hero -->
+  <img class="hero-img"
+       src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSpSjp0NZYc4ovyoeokSi5GLB91aZB3xS_MoARChzzNgBoMHu4U1GsbnXOTdx7Llf8pur0K6MRbKPV4Pmz3wjXK5_9NCfmi86h0tR-1qYymB16ILppoimNOCsDSLXefjDRaUrkLgrJdX6VTNkhpKL-kGsEaZzpigsxSrYq-zdGg4xNVIvGGNL2O7R4quw/s800/5c0f6834e0f766121ee18a619243debc.gif"
+       alt="Gambar">
+  <p class="hero-text">Aman, Nyaman, Santai</p>
+
+  <!-- International News -->
+  <section class="news-section">
+    <div class="news-header">
+      <span class="line"></span>
+      <h2>🌍 Berita Internasional Terbaru</h2>
+      <span class="line"></span>
+    </div>
+
+    <div id="news-container">
+      <p class="news-status"><span class="spinner"></span>Memuat berita...</p>
+    </div>
+  </section>
+
+  <script>
+  // ─── Ganti URL ini dengan alamat Flask Anda setelah deploy ───
+  // Contoh: https://your-app.render.com/api/news
+const API_URL = "https://maxb.pythonanywhere.com/api/news";
+  
+  async function loadNews() {
+    const container = document.getElementById("news-container");
+
+    try {
+      const res      = await fetch(API_URL);
+      const data     = await res.json();
+      const articles = data.articles || [];
+
+      if (articles.length === 0) {
+        container.innerHTML = '<p class="news-status">Tidak ada berita yang ditemukan saat ini.</p>';
+        return;
+      }
+
+      // Build grid
+      let html = '<div class="news-grid">';
+
+      articles.forEach(art => {
+        const badgeClass = art.source.toLowerCase(); // kompas | tribun | viva
+        html += `
+          <article class="news-card">
+            <a href="${art.link}" target="_blank" rel="noopener noreferrer">
+              <div class="card-img-wrap">
+                <img src="${art.image}" alt="${art.title}" loading="lazy"
+                     onerror="this.style.display='none'">
+                <span class="source-badge ${badgeClass}">${art.source}</span>
+              </div>
+              <div class="card-body">
+                <h3>${art.title}</h3>
+              </div>
+            </a>
+          </article>`;
+      });
+
+      html += '</div>';
+      container.innerHTML = html;
+
+    } catch (err) {
+      container.innerHTML =
+        '<p class="news-status">⚠️ Gagal memuat berita.<br>' +
+        'Pastikan Flask server sudah berjalan di <code style="background:rgba(0,0,0,0.15);padding:2px 6px;border-radius:4px;">localhost:5000</code></p>';
+      console.error("Fetch error:", err);
+    }
+  }
+
+  // Jalankan saat halaman selesai loading
+  document.addEventListener("DOMContentLoaded", loadNews);
+  </script>
+
+</body>
+</html>
